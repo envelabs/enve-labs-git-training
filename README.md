@@ -2,39 +2,39 @@
 
 #### Get a copy of an existing project from the server for the first time
     
-  git clone git@<domain.cc>:<repo>
+    git clone git@<domain.cc>:<repo>
     
 
 ex. https version
 
     
-  git clone https://github.com/envelabs/enve-labs-git-training.git
+    git clone https://github.com/envelabs/enve-labs-git-training.git
     
 
 ex. ssh version
 
     
-  git clone git@github.com:envelabs/enve-labs-git-training.git
+    git clone git@github.com:envelabs/enve-labs-git-training.git
     
 
 #### Check for status/changes
     
-  git status
+    git status
     
 
 #### Stage a file for the next local commit
     
-  git add <file>
+    git add <file>
     
 
 #### Stage all files for the next local commit (don't forget the dot after the add)
     
-  git add .
+    git add .
     
 
 #### Check in locally
     
-  git commit -m "<changes added>"
+    git commit -m "<changes added>"
     
 
 #### Push local commits to the server
