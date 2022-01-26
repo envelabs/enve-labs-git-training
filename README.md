@@ -82,6 +82,10 @@ ex. ssh version
   git checkout -
     
 
+#### list all remote branches 
+    
+  git branch -a
+    
 #### Insert changes on the server before your local changes
     
   git pull --rebase
